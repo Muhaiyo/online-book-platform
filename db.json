@@ -1,0 +1,1046 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "1984",
+      "description": "A dystopian novel set in a totalitarian society ruled by Big Brother. The story follows Winston Smith, a man struggling against the oppressive regime. The novel explores themes of surveillance, propaganda, and individualism.",
+      "author": "George Orwell",
+      "image_url": "https://m.media-amazon.com/images/I/7180qjGSgDL._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Dystopian",
+      "price": 9.99,
+      "publication_date": "1949-06-08",
+      "page_count": 328
+    },
+    {
+      "id": "2",
+      "title": "To Kill a Mockingbird",
+      "description": "A novel about the serious issues of rape and racial inequality in the American South. It is narrated by Scout Finch, a young girl whose father, Atticus Finch, is a lawyer defending a black man accused of raping a white woman. The novel highlights moral growth and compassion.",
+      "author": "Harper Lee",
+      "image_url": "https://m.media-amazon.com/images/I/81aY1lxk+9L._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Fiction",
+      "price": 7.99,
+      "publication_date": "1960-07-11",
+      "page_count": 281
+    },
+    {
+      "id": "3",
+      "title": "The Great Gatsby",
+      "description": "A novel about the decline of the American Dream in the 1920s. It tells the story of Jay Gatsby, a mysterious millionaire, through the eyes of Nick Carraway, his neighbor. The novel explores themes of wealth, love, and the American Dream",
+      "author": "F. Scott Fitzgerald",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg",
+      "genre": "Classic",
+      "price": 10.99,
+      "publication_date": "1925-04-10",
+      "page_count": 180
+    },
+    {
+      "id": "4",
+      "title": "Pride and Prejudice",
+      "description": "A romantic novel that also critiques the British landed gentry at the end of the 18th century. It follows Elizabeth Bennet as she navigates issues of manners, upbringing, and marriage in British society. The novel is known for its witty and lively prose.",
+      "author": "Jane Austen",
+      "image_url": "https://inewsnetwork.net/wp-content/uploads/2021/11/Screen-Shot-2021-11-16-at-1.48.23-PM.png",
+      "genre": "Romance",
+      "price": 8.99,
+      "publication_date": "1813-01-28",
+      "page_count": 279
+    },
+    {
+      "id": "5",
+      "title": "The Catcher in the Rye",
+      "description": "А poignant and iconic coming-of-age novel that delves into the turbulent inner world of a disaffected teenager, Holden Caulfield, as he navigates the complexities of adolescence, societal expectations, and his own disillusionment with the adult world.",
+      "author": "J.D. Salinger",
+      "image_url": "https://cdn.britannica.com/94/181394-050-2F76F7EE/Reproduction-cover-edition-The-Catcher-in-the.jpg",
+      "genre": "Fiction",
+      "price": 6.99,
+      "publication_date": "1951-07-16",
+      "page_count": 214
+    },
+    {
+      "id": "6",
+      "title": "Moby-Dick",
+      "description": "A novel work of fiction that explores the obsession, revenge, and the human condition through the epic tale of Captain Ahab's relentless pursuit of the great white whale, Moby-Dick, across the vast and treacherous seas.",
+      "author": "Herman Melville",
+      "image_url": "https://m.media-amazon.com/images/I/81w4hPLPKhL._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Adventure",
+      "price": 11.99,
+      "publication_date": "1851-10-18",
+      "page_count": 635
+    },
+    {
+      "id": "7",
+      "title": "War and Peace",
+      "description": "A novel sweeping masterpiece that intertwines the lives of several aristocratic families against the backdrop of the Napoleonic Wars, offering a profound examination of human nature, the impact of historical events, and the complexities of love, duty, and personal growth",
+      "author": "Leo Tolstoy",
+      "image_url": "https://m.media-amazon.com/images/I/71wXZB-VtBL._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Historical",
+      "price": 12.99,
+      "publication_date": "1869-01-01",
+      "page_count": 1225
+    },
+    {
+      "id": "8",
+      "title": "Crime and Punishment",
+      "description": "A novel delves into the tormented psyche of Raskolnikov, a young intellectual who grapples with the moral and psychological consequences of his decision to commit a heinous crime, ultimately leading him on a journey of self-discovery and redemption",
+      "author": "Fyodor Dostoevsky",
+      "image_url": "https://m.media-amazon.com/images/I/71O2XIytdqL._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Psychological",
+      "price": 9.99,
+      "publication_date": "1866-01-01",
+      "page_count": 671
+    },
+    {
+      "id": "9",
+      "title": "The Odyssey",
+      "description": "An epic poem that chronicles the legendary journey of Odysseus as he navigates his way back home after the Trojan War, encountering a diverse array of mythical creatures and obstacles that test his courage, cunning, and determination",
+      "author": "Homer",
+      "image_url": "https://m.media-amazon.com/images/I/81g0AATkO9L._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Epic",
+      "price": 14.99,
+      "publication_date": "1100-01-01",
+      "page_count": 541
+    },
+    {
+      "id": "10",
+      "title": "Brave New World",
+      "description": "A chilling and thought-provoking dystopian novel that presents a vision of the future where a technologically advanced society has sacrificed individuality, free will, and authentic human experiences in favor of stability, conformity, and the pursuit of artificial happiness",
+      "author": "Aldous Huxley",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/6/62/BraveNewWorld_FirstEdition.jpg",
+      "genre": "Dystopian",
+      "price": 7.99,
+      "publication_date": "1932-01-01",
+      "page_count": 268
+    },
+    {
+      "id": "11",
+      "title": "Anna Karenina",
+      "description": "A sweeping and complex novel that explores the intricate dynamics of love, marriage, and societal expectations through the intertwining narratives of several characters, including the tragic figure of Anna Karenina, whose illicit affair leads her on a path of self-destruction",
+      "author": "Leo Tolstoy",
+      "image_url": "https://m.media-amazon.com/images/I/61uTFEcqj6L._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Romance",
+      "price": 20.99,
+      "publication_date": "1877-01-01",
+      "page_count": 864
+    },
+    {
+      "id": "12",
+      "title": "Frankenstein",
+      "description": "A pioneering work of Gothic fiction that delves into the ethical and philosophical implications of scientific hubris, as Victor Frankenstein's creation of a sentient being leads to dire consequences and a haunting exploration of the boundaries between creator and creation, humanity and monstrosity.",
+      "author": "Mary Shelley",
+      "image_url": "https://m.media-amazon.com/images/I/81TVqiv-ctL._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Gothic",
+      "price": 6.99,
+      "publication_date": "1818-01-01",
+      "page_count": 280
+    },
+    {
+      "id": "13",
+      "title": "The Hobbit",
+      "description": "A beloved fantasy classic that follows the reluctant hero, Bilbo Baggins, on an extraordinary adventure through Middle-earth, where he encounters a diverse array of fantastical creatures, encounters perilous challenges, and ultimately discovers the courage and strength within himself to embark on a transformative journey.",
+      "author": "J.R.R. Tolkien",
+      "image_url": "https://m.media-amazon.com/images/I/71k--OLmZKL._AC_UF894,1000_QL80_.jpg",
+      "genre": "Fantasy",
+      "price": 8.99,
+      "publication_date": "1937-09-21",
+      "page_count": 310
+    },
+    {
+      "id": "14",
+      "title": "The Iliad",
+      "description": "An ancient Greek epic poem attributed to Homer, detailing the events of the Trojan War. It explores themes of heroism, honor, and the wrath of Achilles, offering a profound insight into Greek mythology and culture.",
+      "author": "Homer",
+      "image_url": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781439163382/the-iliad-9781439163382_hr.jpg",
+      "genre": "Epic",
+      "price": 13.99,
+      "publication_date": "1050-01-01",
+      "page_count": 704
+    },
+    {
+      "id": "15",
+      "title": "Jane Eyre",
+      "description": "A novel that follows the experiences of its eponymous heroine, including her growth to adulthood and love for Mr. Rochester. Through her journey, the novel explores themes of morality, religion, and the struggles for women's independence.",
+      "author": "Charlotte Brontë",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1692725440i/197321006.jpg",
+      "genre": "Gothic",
+      "price": 7.99,
+      "publication_date": "1847-10-16",
+      "page_count": 500
+    },
+    {
+      "id": "16",
+      "title": "Wuthering Heights",
+      "description": "A novel about the intense and often destructive relationship between Catherine Earnshaw and Heathcliff. It delves into themes of passion, revenge, and the supernatural, set against the moody backdrop of the Yorkshire moors.",
+      "author": "Emily Brontë",
+      "image_url": "https://m.media-amazon.com/images/I/61Ap7QjGMjL._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Gothic",
+      "price": 6.99,
+      "publication_date": "1847-12-01",
+      "page_count": 416
+    },
+    {
+      "id": "17",
+      "title": "Don Quixote",
+      "description": " A novel about the adventures of a man who reads too many chivalric romances and decides to become a knight-errant. His delusions and misadventures highlight the thin line between reality and imagination, and the enduring nature of idealism.",
+      "author": "Miguel de Cervantes",
+      "image_url": "https://m.media-amazon.com/images/I/71GBg+Ah1cL._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Satire",
+      "price": 15.99,
+      "publication_date": "1605-01-16",
+      "page_count": 1072
+    },
+    {
+      "id": "18",
+      "title": "One Hundred Years of Solitude",
+      "description": "A multi-generational story about the Buendía family, showcasing magical realism. The novel weaves a rich tapestry of love, loss, and the cyclical nature of history within the mythical town of Macondo.",
+      "author": "Gabriel García Márquez",
+      "image_url": "https://m.media-amazon.com/images/I/81MI6+TpYkL._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Fiction",
+      "price": 12.99,
+      "publication_date": "1967-06-05",
+      "page_count": 417
+    },
+    {
+      "id": "19",
+      "title": "The Divine Comedy",
+      "description": "An epic poem describing Dante's journey through Hell, Purgatory, and Paradise. It serves as an allegory for the soul's redemption and a reflection of medieval theology, philosophy, and politics.",
+      "author": "Dante Alighieri",
+      "image_url": "https://m.media-amazon.com/images/I/51i-9SGWr-L._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Epic",
+      "price": 14.99,
+      "publication_date": "1320-01-01",
+      "page_count": 798
+    },
+    {
+      "id": "20",
+      "title": "The Picture of Dorian Gray",
+      "description": "A philosophical novel about the consequences of aestheticism and the pursuit of beauty. It examines the moral corruption and downfall of Dorian Gray, whose portrait ages and decays while he remains youthful.",
+      "author": "Oscar Wilde",
+      "image_url": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781476788128/the-picture-of-dorian-gray-9781476788128_hr.jpg",
+      "genre": "Gothic",
+      "price": 8.99,
+      "publication_date": "1890-07-01",
+      "page_count": 254
+    },
+    {
+      "id": "21",
+      "title": "Great Expectations",
+      "description": "A bildungsroman that depicts the personal growth and development of an orphan nicknamed Pip. The novel addresses themes of social class, ambition, and the complexities of human relationships in Victorian England.",
+      "author": "Charles Dickens",
+      "image_url": "https://cdn2.penguin.com.au/covers/original/9780451531186.jpg",
+      "genre": "Classic",
+      "price": 9.99,
+      "publication_date": "1861-08-01",
+      "page_count": 544
+    },
+    {
+      "id": "22",
+      "title": "Les Misérables",
+      "description": "A novel about the struggles of ex-convict Jean Valjean and his experience of redemption. It portrays the socio-political upheavals in 19th-century France and explores themes of justice, love, and sacrifice.",
+      "author": "Victor Hugo",
+      "image_url": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781626864641/les-miserables-9781626864641_hr.jpg",
+      "genre": "Historical",
+      "price": 11.99,
+      "publication_date": "1862-01-01",
+      "page_count": 1463
+    },
+    {
+      "id": "23",
+      "title": "The Brothers Karamazov",
+      "description": "A philosophical novel that explores themes of morality, faith, and free will. Through the story of the Karamazov family, it delves into profound existential questions and the human condition.",
+      "author": "Fyodor Dostoevsky",
+      "image_url": "https://m.media-amazon.com/images/I/612WPFYJwrL._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Philosophical",
+      "price": 10.99,
+      "publication_date": "1880-11-01",
+      "page_count": 796
+    },
+    {
+      "id": "24",
+      "title": "The Count of Monte Cristo",
+      "description": "A novel about a man who is wrongfully imprisoned and seeks revenge against those who betrayed him. It is a tale of justice, vengeance, and redemption, set against the backdrop of post-Napoleonic France.",
+      "author": "Alexandre Dumas",
+      "image_url": "https://m.media-amazon.com/images/I/51RcuPqc+lL._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Adventure",
+      "price": 12.99,
+      "publication_date": "1844-08-28",
+      "page_count": 1276
+    },
+    {
+      "id": "25",
+      "title": "The Scarlet Letter",
+      "description": "A novel about the consequences of adultery and shame in 17th-century Puritan New England. It explores themes of sin, guilt, and redemption through the story of Hester Prynne and her illegitimate daughter, Pearl.",
+      "author": "Nathaniel Hawthorne",
+      "image_url": "https://m.media-amazon.com/images/I/61iylEmE5kL._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Historical",
+      "price": 7.99,
+      "publication_date": "1850-03-16",
+      "page_count": 238
+    },
+    {
+      "id": "26",
+      "title": "The Adventures of Huckleberry Finn",
+      "description": "A novel about a young boy's adventures on the Mississippi River. Through Huck's journey, it addresses themes of race, freedom, and the moral dilemmas of antebellum America",
+      "author": "Mark Twain",
+      "image_url": "https://m.media-amazon.com/images/I/91sBZnKzEfL._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Adventure",
+      "price": 8.99,
+      "publication_date": "1884-12-10",
+      "page_count": 366
+    },
+    {
+      "id": "27",
+      "title": "The Grapes of Wrath",
+      "description": "A novel that portrays the hardships faced by migrant farmworkers during the Great Depression. It highlights the struggles for survival, dignity, and justice faced by the Joad family and countless others.",
+      "author": "John Steinbeck",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/The_Grapes_of_Wrath_%281939_1st_ed_cover%29.jpg",
+      "genre": "Fiction",
+      "price": 10.99,
+      "publication_date": "1939-04-14",
+      "page_count": 464
+    },
+    {
+      "id": "28",
+      "title": "The Lord of the Rings",
+      "description": "A high fantasy epic about the quest to destroy the One Ring and defeat the Dark Lord Sauron. The story weaves together themes of friendship, courage, and the timeless battle between good and evil in the richly imagined world of Middle-earth.",
+      "author": "J.R.R. Tolkien",
+      "image_url": "https://i.harperapps.com/hcanz/covers/9780008537760/y648.jpg",
+      "genre": "Fantasy",
+      "price": 15.99,
+      "publication_date": "1954-07-29",
+      "page_count": 1178
+    },
+    {
+      "id": "29",
+      "title": "The Chronicles of Narnia",
+      "description": "A series of seven fantasy novels set in the fictional world of Narnia. The books chronicle the adventures of children who play central roles in the unfolding history of Narnia, where animals talk, magic is common, and good battles evil.",
+      "author": "C.S. Lewis",
+      "image_url": "https://m.media-amazon.com/images/I/81RuC2qCSmL._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Fantasy",
+      "price": 13.99,
+      "publication_date": "1950-10-16",
+      "page_count": 767
+    },
+    {
+      "id": "30",
+      "title": "A Game of Thrones",
+      "description": "The first novel in the epic fantasy series A Song of Ice and Fire. It introduces a complex web of characters and political intrigue, set in the fictional continents of Westeros and Essos, where noble families vie for control of the Iron Throne.",
+      "author": "George R.R. Martin",
+      "image_url": "https://m.media-amazon.com/images/I/714ExofeKJL._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Fantasy",
+      "price": 11.99,
+      "publication_date": "1996-08-06",
+      "page_count": 694
+    },
+    {
+      "id": "31",
+      "title": "The Girl with the Dragon Tattoo",
+      "description": "A psychological thriller novel that follows the investigation of a young woman's disappearance. The story intertwines the lives of journalist Mikael Blomkvist and hacker Lisbeth Salander, uncovering dark family secrets and corruption.",
+      "author": "Stieg Larsson",
+      "image_url": "https://m.media-amazon.com/images/I/61Qs-hoZ-TL._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Thriller",
+      "price": 9.99,
+      "publication_date": "2005-08-01",
+      "page_count": 672
+    },
+    {
+      "id": "32",
+      "title": "Harry Potter and Philosopher's Stone",
+      "description": "The first novel in the Harry Potter series, following the adventures of a young wizard, Harry Potter. Harry discovers his magical heritage and attends Hogwarts School of Witchcraft and Wizardry, where he makes friends and confronts dark forces.",
+      "author": "J.K. Rowling",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/6/6b/Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg",
+      "genre": "Fantasy",
+      "price": 10.99,
+      "publication_date": "1997-06-26",
+      "page_count": 332
+    },
+    {
+      "id": "33",
+      "title": "The Da Vinci Code",
+      "description": "A mystery thriller novel that follows symbologist Robert Langdon as he investigates a murder in the Louvre Museum. The novel explores hidden codes and secrets within famous works of art, leading to a revelation about religious history.",
+      "author": "Dan Brown",
+      "image_url": "https://m.media-amazon.com/images/I/811nqCf7o1L._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Mystery",
+      "price": 8.99,
+      "publication_date": "2003-03-18",
+      "page_count": 454
+    },
+    {
+      "id": "34",
+      "title": "The Shining",
+      "description": "A horror novel about a writer who takes a job as the winter caretaker of a haunted hotel. As the isolated hotel influences his mind, he becomes increasingly violent, putting his family in grave danger.",
+      "author": "Stephen King",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/The_Shining_%281977%29_front_cover%2C_first_edition.jpg",
+      "genre": "Horror",
+      "price": 7.99,
+      "publication_date": "1977-01-28",
+      "page_count": 447
+    },
+    {
+      "id": "35",
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "description": "A comedic science fiction series that follows the misadventures of Arthur Dent, an ordinary human. After Earth is destroyed to make way for a hyperspace bypass, Arthur journeys through space with an eccentric cast of characters.",
+      "author": "Douglas Adams",
+      "image_url": "https://www.pluggedin.com/wp-content/uploads/2020/01/hitchhikers-guide-to-galaxy-cover-image-682x1024.jpeg",
+      "genre": "Fiction",
+      "price": 9.99,
+      "publication_date": "1979-10-12",
+      "page_count": 193
+    },
+    {
+      "id": "36",
+      "title": "The Hunger Games",
+      "description": "The first novel in a dystopian trilogy, following a young woman who volunteers to take her sister's place in a televised fight to the death. Katniss Everdeen must navigate brutal competition and complex political dynamics to survive.",
+      "author": "Suzanne Collins",
+      "image_url": "https://m.media-amazon.com/images/I/71un2hI4mcL._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Dystopian",
+      "price": 8.99,
+      "publication_date": "2008-09-14",
+      "page_count": 374
+    },
+    {
+      "id": "37",
+      "title": "Gone with the Wind",
+      "description": "A historical romance novel set against the backdrop of the American Civil War and Reconstruction era. It tells the story of Scarlett O'Hara, a strong-willed Southern belle, and her tumultuous love life amidst the devastation of the war.",
+      "author": "Margaret Mitchell",
+      "image_url": "https://m.media-amazon.com/images/I/91w1IHrUqZL._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Romance",
+      "price": 11.99,
+      "publication_date": "1936-06-30",
+      "page_count": 1037
+    },
+    {
+      "id": "38",
+      "title": "The Handmaid's Tale",
+      "description": "A dystopian novel set in a future totalitarian society where women are oppressed. The story follows Offred, a woman forced into reproductive servitude, as she navigates life under the regime and seeks to reclaim her autonomy.",
+      "author": "Margaret Atwood",
+      "image_url": "https://m.media-amazon.com/images/I/61su39k8NUL._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Dystopian",
+      "price": 10.99,
+      "publication_date": "1985-09-17",
+      "page_count": 311
+    },
+    {
+      "id": "39",
+      "title": "The Road",
+      "description": "A post-apocalyptic novel about a father and son's journey across a desolate landscape. Their bond and struggle for survival highlight themes of hope and humanity in a world ravaged by an unspecified disaster.",
+      "author": "Cormac McCarthy",
+      "image_url": "https://m.media-amazon.com/images/I/51M7XGLQTBL._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Fantasy",
+      "price": 9.99,
+      "publication_date": "2006-09-26",
+      "page_count": 241
+    },
+    {
+      "id": "40",
+      "title": "The Alchemist",
+      "description": "A philosophical novel about a young shepherd's journey to find his personal legend. Along his path, Santiago learns profound lessons about following one's dreams and listening to the heart's desires.",
+      "author": "Paulo Coelho",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654371463i/18144590.jpg",
+      "genre": "Philosophical",
+      "price": 8.99,
+      "publication_date": "1988-01-01",
+      "page_count": 197
+    },
+    {
+      "id": "41",
+      "title": "Sapiens: A Brief History of Humankind",
+      "description": "A non-fiction book that explores the history of Homo sapiens from the emergence of archaic human species to the present day. It examines the cognitive, agricultural, and scientific revolutions that have shaped human societies.",
+      "author": "Yuval Noah Harari",
+      "image_url": "https://m.media-amazon.com/images/I/716E6dQ4BXL._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Historical",
+      "price": 14.99,
+      "publication_date": "2011-02-10",
+      "page_count": 443
+    },
+    {
+      "id": "42",
+      "title": "The Metamorphosis",
+      "description": "A novella about a traveling salesman who wakes up one morning to find himself transformed into a gigantic insect. The story delves into themes of alienation, identity, and the human condition through Gregor Samsa's surreal experience.",
+      "author": "Franz Kafka",
+      "image_url": "https://m.media-amazon.com/images/I/81XLJH8QOeL._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Fiction",
+      "price": 6.99,
+      "publication_date": "1915-10-15",
+      "page_count": 201
+    },
+    {
+      "id": "43",
+      "title": "The War of the Worlds",
+      "description": "A science fiction novel about an invasion of Earth by Martians. The narrative explores the chaos and destruction brought by the extraterrestrial invaders and the human struggle for survival against a seemingly unstoppable force.",
+      "author": "H.G. Wells",
+      "image_url": "https://m.media-amazon.com/images/I/71GNnwrqYmL._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Fiction",
+      "price": 7.99,
+      "publication_date": "1898-04-29",
+      "page_count": 192
+    },
+    {
+      "id": "44",
+      "title": "The Sun Also Rises",
+      "description": "A novel about a group of American and British expatriates traveling from Paris to Pamplona to watch the running of the bulls and the bullfights. The story captures the disillusionment and aimlessness of the post-World War 'I Lost Generation'.",
+      "author": "Ernest Hemingway",
+      "image_url": "https://m.media-amazon.com/images/I/71O7XjXaMhL._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Fiction",
+      "price": 8.99,
+      "publication_date": "1926-10-22",
+      "page_count": 251
+    },
+    {
+      "id": "45",
+      "title": "Animal Farm",
+      "description": "An allegorical novella that reflects events leading up to the Russian Revolution of 1917 and then on into the Stalinist era of the Soviet Union. The story uses farm animals to satirize the rise of totalitarianism and the corruption of revolutionary ideals.",
+      "author": "George Orwell",
+      "image_url": "https://m.media-amazon.com/images/I/71je3-DsQEL._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Satire",
+      "price": 6.99,
+      "publication_date": "1945-08-17",
+      "page_count": 112
+    },
+    {
+      "id": "46",
+      "title": "The Old Man and the Sea",
+      "description": "A novella about an aging Cuban fisherman who struggles with a giant marlin far out in the Gulf Stream. The narrative explores themes of perseverance, pride, and the human spirit through Santiago's epic battle with the fish.",
+      "author": "Ernest Hemingway",
+      "image_url": "https://m.media-amazon.com/images/I/71RXc0OoEwL._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Fiction",
+      "price": 7.99,
+      "publication_date": "1952-09-01",
+      "page_count": 127
+    },
+    {
+      "id": "47",
+      "title": "The Bell Jar",
+      "description": "A novel about a young woman's mental breakdown and eventual recovery. Through the protagonist Esther Greenwood's experiences, the novel addresses issues of identity, mental health, and societal expectations.",
+      "author": "Sylvia Plath",
+      "image_url": "https://www.faber.co.uk/wp-content/uploads/2022/09/Bell-Jar-2.jpg",
+      "genre": "Fiction",
+      "price": 9.99,
+      "publication_date": "1963-01-14",
+      "page_count": 288
+    },
+    {
+      "id": "48",
+      "title": "The Road Less Traveled",
+      "description": "A philosophical book that discusses the importance of confronting and solving life's problems. It combines psychology and spirituality to offer guidance on personal growth and fulfillment.",
+      "author": "M. Scott Peck",
+      "image_url": "https://m.media-amazon.com/images/I/71v9gNeSB3L._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Philosophical",
+      "price": 11.99,
+      "publication_date": "1978-02-04",
+      "page_count": 316
+    },
+    {
+      "id": "49",
+      "title": "The Name of the Wind",
+      "description": "The first book in the fantasy series The Kingkiller Chronicle. It follows the story of Kvothe, a legendary figure recounting his life, filled with magic, music, and adventure, from his humble beginnings to his rise to fame.",
+      "author": "Patrick Rothfuss",
+      "image_url": "https://m.media-amazon.com/images/I/91UzPegYyjL._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Fantasy",
+      "price": 12.99,
+      "publication_date": "2007-03-27",
+      "page_count": 662
+    }
+  ],
+  "users": [
+    {
+      "id": "6cea",
+      "email": "KanekiKen19@gmail.com",
+      "password": "1029"
+    },
+    {
+      "id": "7485",
+      "email": "regergerg",
+      "password": "egegrergeg"
+    },
+    {
+      "id": "dbc4",
+      "email": "ergergre",
+      "password": "gergergeg"
+    },
+    {
+      "id": "ed26",
+      "email": "Abdullo",
+      "password": "1001"
+    },
+    {
+      "id": "873c",
+      "email": "abd",
+      "password": "123"
+    },
+    {
+      "id": "8f9d",
+      "email": "abd",
+      "password": "123"
+    },
+    {
+      "id": "9226",
+      "email": "abd",
+      "password": "123"
+    },
+    {
+      "id": "a9d4",
+      "email": "Vermeil",
+      "password": "228"
+    },
+    {
+      "id": "6231",
+      "email": "Vermeil",
+      "password": "228"
+    },
+    {
+      "id": "9f3f",
+      "email": "efwkwkleklwff",
+      "password": "we;lfwl;fl;wefl;wef"
+    },
+    {
+      "id": "89b7",
+      "email": "abd",
+      "password": "123"
+    },
+    {
+      "id": "e9c4",
+      "email": "укпкупукп",
+      "password": "пкупукпуп"
+    },
+    {
+      "id": "2f90",
+      "email": "укпкупукп",
+      "password": "пкупукпуп"
+    },
+    {
+      "id": "b703",
+      "email": "ркерекрк",
+      "password": "керкеркр"
+    },
+    {
+      "id": "3901",
+      "email": "ркерекрк",
+      "password": "керкеркр"
+    },
+    {
+      "id": "927d",
+      "email": "abd",
+      "password": "123"
+    },
+    {
+      "id": "ab76",
+      "email": "abd",
+      "password": "123"
+    },
+    {
+      "id": "5fd8",
+      "email": "Abdullo",
+      "password": "10293847"
+    },
+    {
+      "id": "0bf3",
+      "email": "таптатп",
+      "password": "таптатат"
+    },
+    {
+      "id": "2c26",
+      "email": "ререре",
+      "password": "ереререр"
+    },
+    {
+      "id": "4f2b",
+      "email": "hgfhfh",
+      "password": "fghgfhh"
+    },
+    {
+      "id": "9592",
+      "email": "еккоркр",
+      "password": "крркркркр"
+    },
+    {
+      "id": "0fbe",
+      "email": "укпку",
+      "password": "пукпкукп"
+    },
+    {
+      "id": "ffc9",
+      "email": "кеппу",
+      "password": "епкпупкп"
+    },
+    {
+      "id": "488f",
+      "email": "rhthrhtrh",
+      "password": "rthhtrhrthr"
+    },
+    {
+      "id": "78f0",
+      "email": "gregerger",
+      "password": "gegegegeg"
+    },
+    {
+      "id": "2344",
+      "email": "gregerger",
+      "password": "gegegegeg"
+    },
+    {
+      "id": "289c",
+      "email": "gregerger",
+      "password": "gegegegeg"
+    },
+    {
+      "id": "b7bc",
+      "email": "errteter",
+      "password": "tetetetet"
+    },
+    {
+      "id": "9686",
+      "email": "errteter",
+      "password": "tetetetet"
+    },
+    {
+      "email": "errteter@mail.com",
+      "password": "$2a$10$n490NRKb45T7PViX4M5QzemjA31GR7ndKUNMKh3Nj9EY26zik9oW.",
+      "id": "g0KcGUH"
+    },
+    {
+      "email": "regeer@email.com",
+      "password": "$2a$10$ZV.ORsMMKOfF0myxUCDtr.M2QgkWmT8vBnfl8IQpAN0.fRIukbHgW",
+      "id": "ish4OAV"
+    },
+    {
+      "email": "abdullo@email.com",
+      "password": "$2a$10$yB3/V8x.J/dzbZItWnlYOu4KPsANeMm0Rv16yBqNiy43LeRF23vfa",
+      "id": "ffC8ZS2"
+    },
+    {
+      "email": "Max@gmail.com",
+      "password": "$2a$10$WC7nJZmA2P0PR9PoreqbfeoZmfI1KmlbQJOQN1GhWYphD7IVmLAJ.",
+      "id": "Ylu0fK_"
+    },
+    {
+      "email": "Abdullo2005@gmail.com",
+      "password": "$2a$10$JsiAvZlFHTddd1C0p5z8neU0oBzIhCw8QwZzCkAFoRFYXyFXIQvo.",
+      "id": "7bOY_tK"
+    },
+    {
+      "email": "AbdulloKAM@gmail.com",
+      "password": "$2a$10$TgitAZNmp2eLmMcaHK2J.ucKU1Zn47Y7u1zrFisfw3mky9xEgm/HW",
+      "id": "cE-ebkT"
+    },
+    {
+      "email": "errteterwfefw@gmail.com",
+      "password": "$2a$10$W4PLF7skx7bRDXOsnlpZZONf3XjQ7U7bhGNwLBVJtlnNyOD4Kw00y",
+      "id": "EwVX5Nb"
+    },
+    {
+      "email": "errteter@asdasd",
+      "password": "$2a$10$KMMe1J9f9BoPFLY1u1zWvuJt0Q8rZxNj9scF/WulrocMiMSBfa/Te",
+      "id": "9jFFN6P"
+    },
+    {
+      "email": "KAM@gmail.com",
+      "password": "$2a$10$A2/THCPJI343XJhjQUFcL.NktCGHu77WzSDP1NbZTEgHEsp5ViLwS",
+      "id": "NHB_BgC"
+    },
+    {
+      "email": "Welcome@email.com",
+      "password": "$2a$10$98CFhQts0fHSIqcSO9/mXeROdFlaCQ8lWQVycY8RwsJISkUQBAaQi",
+      "id": "c_k53sN"
+    },
+    {
+      "email": "Kskskskdk@fsf",
+      "password": "$2a$10$w405zYCI/q6ojxGoPnAzjO/S6da76m3awn.esN6rc9JzofqQB9MKG",
+      "id": "vvBM04W"
+    },
+    {
+      "email": "Usama@gmail",
+      "password": "$2a$10$iBPL9JcNrFGiCgr7W0MZdOVYUA87nxyhhZMVxnL08eDBWaqAZxuPW",
+      "id": "t2CVsd_"
+    },
+    {
+      "email": "Final@gmail.com",
+      "password": "$2a$10$vIquPhQ5MEc7EzxY9/QolOGrjAdSLjqOI8sycB/VayJODL6n2g1t2",
+      "id": "DJ2_jWR"
+    },
+    {
+      "email": "errteter213213@asdsad",
+      "password": "$2a$10$aN5hV74zceQAmdsI9HNYtORwqRuiSOfpJD3hsOqGJ2GfFs2R139QS",
+      "id": "bG6v0dl"
+    },
+    {
+      "email": "Abdulloh@gmail",
+      "password": "$2a$10$Vel4/q9tWBKpBHOGJx8VS.sCVTEms5WMg4j5ThSa3cb0LRy7GfACq",
+      "id": "XfBCYbw"
+    },
+    {
+      "email": "Ajsdjjsjs@gma",
+      "password": "$2a$10$87SQz5tDfQq5z0zWgaxbLOUogV.tPVQzrnmS/5cOcApflUl/sN6vy",
+      "id": "wCYXfgR"
+    },
+    {
+      "email": "dsfafdsfsd@fe",
+      "password": "$2a$10$PIMULzMpHvSx6TRjJoR96uoQw5okpt9UxFoYmA9ppXt7Jp0yujudi",
+      "id": "bpk1Lbb"
+    },
+    {
+      "email": "errteterasdasd@asddas",
+      "password": "$2a$10$pOCwCBfE6JzMc56yzcrNBOKvy6z4N312j4VFSO90nf1ZLQV6AE0Iq",
+      "id": "29cUrm9"
+    },
+    {
+      "email": "errteterasdasdasdads@asdasd",
+      "password": "$2a$10$HqtyqF2D932DeYMNLSMjPejLhZLeFzcBga3nW5uy4g9GtFoIWSTQW",
+      "id": "WezXzDm"
+    },
+    {
+      "email": "Kamoliddinov@gmail",
+      "password": "$2a$10$w5kt6amAUdRQsI2SXyowTuRhiHLSwODkcwbYfxB6rTDjtLfhZ2vz2",
+      "id": "w0wJZqu"
+    },
+    {
+      "email": "ddjdfkjdjkj@gmfmg",
+      "password": "$2a$10$sKHXxJP8Ptlc1vutbCIY6um8x0e.s5MCnUBKi6seuZaMLwPFUsOMi",
+      "id": "UnTwkxg"
+    },
+    {
+      "email": "America@gmail",
+      "password": "$2a$10$9Iiww5CWtKxZMh/iS3AjUOVMKZBe55ZnBgEX9ofJnhAPdqAxCujiW",
+      "id": "KN1xOlx"
+    },
+    {
+      "email": "fwewefewf1@efef",
+      "password": "$2a$10$RmxI42zdWt/AYSEyYqaTPu.cbPBBPAs6/ohxCg6EYcAlhA/oXb8ES",
+      "id": "YlU1Y9u"
+    },
+    {
+      "email": "effefefe@d",
+      "password": "$2a$10$nSaqjLTZFk9OiWeqMcSaPeZfCaiTsAm46u3Od13kdDf5nwZSKkJSC",
+      "id": "XrcL1Kl"
+    },
+    {
+      "email": "Meme@gmail",
+      "password": "$2a$10$m7CUIaGdVD/aOEdZSv4SNe97qroENOoreOZku/x3lBBa9Ls21l1EK",
+      "id": "jg3weEU"
+    },
+    {
+      "email": "Sea@gmail",
+      "password": "$2a$10$sYdWVYJjpTmB2ELfLu8HPuogurUpcMMF/jEPOu8niAFZW28zevnAa",
+      "id": "AAt-wpO"
+    },
+    {
+      "email": "IT@gmail.com",
+      "password": "$2a$10$KRY4bF2EelWVCGQZK.eky.GjwlZEMFnfR.GcdtlPznlLwfhi4IoTK",
+      "id": "XzUK9iW"
+    },
+    {
+      "email": "Iran@gmail",
+      "password": "$2a$10$cZxcKFM5RAZBCjp5Lhv5tO/gydoQki6S6mj8m.b1o8IeFBxpEs/Vy",
+      "id": "J7y8t-E"
+    },
+    {
+      "email": "Iraq@gmail",
+      "password": "$2a$10$1N5u61o6gHxPr9y35JFJ2ufYGGrNYNja.5IKffH.A9MllVPym.jOO",
+      "id": "SN7C38b"
+    }
+  ],
+  "cart": [
+    {
+      "title": "To Kill a Mockingbird",
+      "description": "A novel about the serious issues of rape and racial inequality in the American South. It is narrated by Scout Finch, a young girl whose father, Atticus Finch, is a lawyer defending a black man accused of raping a white woman. The novel highlights moral growth and compassion.",
+      "author": "Harper Lee",
+      "image_url": "https://m.media-amazon.com/images/I/81aY1lxk+9L._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Fiction",
+      "price": 7.99,
+      "publication_date": "1960-07-11",
+      "page_count": 281,
+      "user_id": "DJ2_jWR",
+      "id": 1
+    },
+    {
+      "title": "1984",
+      "description": "A dystopian novel set in a totalitarian society ruled by Big Brother. The story follows Winston Smith, a man struggling against the oppressive regime. The novel explores themes of surveillance, propaganda, and individualism.",
+      "author": "George Orwell",
+      "image_url": "https://m.media-amazon.com/images/I/7180qjGSgDL._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Dystopian",
+      "price": 9.99,
+      "publication_date": "1949-06-08",
+      "page_count": 328,
+      "user_id": "DJ2_jWR",
+      "id": 2
+    },
+    {
+      "title": "1984",
+      "description": "A dystopian novel set in a totalitarian society ruled by Big Brother. The story follows Winston Smith, a man struggling against the oppressive regime. The novel explores themes of surveillance, propaganda, and individualism.",
+      "author": "George Orwell",
+      "image_url": "https://m.media-amazon.com/images/I/7180qjGSgDL._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Dystopian",
+      "price": 9.99,
+      "publication_date": "1949-06-08",
+      "page_count": 328,
+      "user_id": "XfBCYbw",
+      "id": 3
+    },
+    {
+      "title": "1984",
+      "description": "A dystopian novel set in a totalitarian society ruled by Big Brother. The story follows Winston Smith, a man struggling against the oppressive regime. The novel explores themes of surveillance, propaganda, and individualism.",
+      "author": "George Orwell",
+      "image_url": "https://m.media-amazon.com/images/I/7180qjGSgDL._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Dystopian",
+      "price": 9.99,
+      "publication_date": "1949-06-08",
+      "page_count": 328,
+      "user_id": "XfBCYbw",
+      "id": 4
+    },
+    {
+      "title": "1984",
+      "description": "A dystopian novel set in a totalitarian society ruled by Big Brother. The story follows Winston Smith, a man struggling against the oppressive regime. The novel explores themes of surveillance, propaganda, and individualism.",
+      "author": "George Orwell",
+      "image_url": "https://m.media-amazon.com/images/I/7180qjGSgDL._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Dystopian",
+      "price": 9.99,
+      "publication_date": "1949-06-08",
+      "page_count": 328,
+      "user_id": "bpk1Lbb",
+      "id": 5
+    },
+    {
+      "title": "1984",
+      "description": "A dystopian novel set in a totalitarian society ruled by Big Brother. The story follows Winston Smith, a man struggling against the oppressive regime. The novel explores themes of surveillance, propaganda, and individualism.",
+      "author": "George Orwell",
+      "image_url": "https://m.media-amazon.com/images/I/7180qjGSgDL._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Dystopian",
+      "price": 9.99,
+      "publication_date": "1949-06-08",
+      "page_count": 328,
+      "user_id": "bpk1Lbb",
+      "id": 6
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "description": "A novel about the serious issues of rape and racial inequality in the American South. It is narrated by Scout Finch, a young girl whose father, Atticus Finch, is a lawyer defending a black man accused of raping a white woman. The novel highlights moral growth and compassion.",
+      "author": "Harper Lee",
+      "image_url": "https://m.media-amazon.com/images/I/81aY1lxk+9L._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Fiction",
+      "price": 7.99,
+      "publication_date": "1960-07-11",
+      "page_count": 281,
+      "user_id": "bpk1Lbb",
+      "id": 7
+    },
+    {
+      "title": "1984",
+      "description": "A dystopian novel set in a totalitarian society ruled by Big Brother. The story follows Winston Smith, a man struggling against the oppressive regime. The novel explores themes of surveillance, propaganda, and individualism.",
+      "author": "George Orwell",
+      "image_url": "https://m.media-amazon.com/images/I/7180qjGSgDL._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Dystopian",
+      "price": 9.99,
+      "publication_date": "1949-06-08",
+      "page_count": 328,
+      "user_id": "bpk1Lbb",
+      "id": 8
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "description": "A novel about the serious issues of rape and racial inequality in the American South. It is narrated by Scout Finch, a young girl whose father, Atticus Finch, is a lawyer defending a black man accused of raping a white woman. The novel highlights moral growth and compassion.",
+      "author": "Harper Lee",
+      "image_url": "https://m.media-amazon.com/images/I/81aY1lxk+9L._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Fiction",
+      "price": 7.99,
+      "publication_date": "1960-07-11",
+      "page_count": 281,
+      "user_id": "bpk1Lbb",
+      "id": 9
+    },
+    {
+      "title": "1984",
+      "description": "A dystopian novel set in a totalitarian society ruled by Big Brother. The story follows Winston Smith, a man struggling against the oppressive regime. The novel explores themes of surveillance, propaganda, and individualism.",
+      "author": "George Orwell",
+      "image_url": "https://m.media-amazon.com/images/I/7180qjGSgDL._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Dystopian",
+      "price": 9.99,
+      "publication_date": "1949-06-08",
+      "page_count": 328,
+      "user_id": "29cUrm9",
+      "id": 10
+    },
+    {
+      "title": "1984",
+      "description": "A dystopian novel set in a totalitarian society ruled by Big Brother. The story follows Winston Smith, a man struggling against the oppressive regime. The novel explores themes of surveillance, propaganda, and individualism.",
+      "author": "George Orwell",
+      "image_url": "https://m.media-amazon.com/images/I/7180qjGSgDL._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Dystopian",
+      "price": 9.99,
+      "publication_date": "1949-06-08",
+      "page_count": 328,
+      "user_id": "29cUrm9",
+      "id": 11
+    },
+    {
+      "title": "1984",
+      "description": "A dystopian novel set in a totalitarian society ruled by Big Brother. The story follows Winston Smith, a man struggling against the oppressive regime. The novel explores themes of surveillance, propaganda, and individualism.",
+      "author": "George Orwell",
+      "image_url": "https://m.media-amazon.com/images/I/7180qjGSgDL._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Dystopian",
+      "price": 9.99,
+      "publication_date": "1949-06-08",
+      "page_count": 328,
+      "user_id": "WezXzDm",
+      "id": 12
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "description": "A novel about the serious issues of rape and racial inequality in the American South. It is narrated by Scout Finch, a young girl whose father, Atticus Finch, is a lawyer defending a black man accused of raping a white woman. The novel highlights moral growth and compassion.",
+      "author": "Harper Lee",
+      "image_url": "https://m.media-amazon.com/images/I/81aY1lxk+9L._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Fiction",
+      "price": 7.99,
+      "publication_date": "1960-07-11",
+      "page_count": 281,
+      "user_id": "WezXzDm",
+      "id": 13
+    },
+    {
+      "title": "Crime and Punishment",
+      "description": "A novel about the mental anguish and moral dilemmas of a young man who plans a crime.",
+      "author": "Fyodor Dostoevsky",
+      "image_url": "https://m.media-amazon.com/images/I/71O2XIytdqL._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Psychological",
+      "price": 9.99,
+      "publication_date": "1866-01-01",
+      "page_count": 671,
+      "user_id": "w0wJZqu",
+      "id": 14
+    },
+    {
+      "title": "1984",
+      "description": "A dystopian novel set in a totalitarian society ruled by Big Brother. The story follows Winston Smith, a man struggling against the oppressive regime. The novel explores themes of surveillance, propaganda, and individualism.",
+      "author": "George Orwell",
+      "image_url": "https://m.media-amazon.com/images/I/7180qjGSgDL._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Dystopian",
+      "price": 9.99,
+      "publication_date": "1949-06-08",
+      "page_count": 328,
+      "user_id": "KN1xOlx",
+      "id": 15
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "description": "A novel about the serious issues of rape and racial inequality in the American South. It is narrated by Scout Finch, a young girl whose father, Atticus Finch, is a lawyer defending a black man accused of raping a white woman. The novel highlights moral growth and compassion.",
+      "author": "Harper Lee",
+      "image_url": "https://m.media-amazon.com/images/I/81aY1lxk+9L._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Fiction",
+      "price": 7.99,
+      "publication_date": "1960-07-11",
+      "page_count": 281,
+      "user_id": "YlU1Y9u",
+      "id": 16
+    },
+    {
+      "title": "Crime and Punishment",
+      "description": "A novel delves into the tormented psyche of Raskolnikov, a young intellectual who grapples with the moral and psychological consequences of his decision to commit a heinous crime, ultimately leading him on a journey of self-discovery and redemption",
+      "author": "Fyodor Dostoevsky",
+      "image_url": "https://m.media-amazon.com/images/I/71O2XIytdqL._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Psychological",
+      "price": 9.99,
+      "publication_date": "1866-01-01",
+      "page_count": 671,
+      "user_id": "SN7C38b",
+      "id": 19
+    }
+  ]
+}
